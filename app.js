@@ -53,3 +53,13 @@ switch (weather) {
   default:
     console.log('Kolla väderappen igen!');
 }
+
+for (i = 1; i < 6; i++) {
+  console.log(i);
+}
+
+const fruits = ['banan', 'äpple', 'körsbär'];
+
+for (let i = 0; i < fruits.length; i++) {
+  console.log(fruits[i]);
+}
